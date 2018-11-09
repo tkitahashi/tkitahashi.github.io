@@ -1,37 +1,18 @@
-## Tomo Kitahashiのページ
+# Tomo Kitahashiのページ
 
-You can use the [editor on GitHub](https://github.com/tkitahashi/tkitahashi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+海底の泥の中に棲んでいる“メイオファウナ”という小さな生き物の研究をしています
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**最近の活動…**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-2017.0825    共著論文がアクセプトされました！
 
-```markdown
-Syntax highlighted code block
+                                    ⇒ 学会発表のページ
 
-# Header 1
-## Header 2
-### Header 3
+-2017.0825    新青丸航海に乗船しました！
 
-- Bulleted
-- List
+                                    ⇒ 研究乗船歴のページ
 
-1. Numbered
-2. List
+-2016.09.12    熊本で開催された日本ベントス学会にに参加しました！
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tkitahashi/tkitahashi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+                                    ⇒ 学会発表のページ
