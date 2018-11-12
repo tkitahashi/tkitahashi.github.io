@@ -1,4 +1,4 @@
-# Kitahashi, T. Pd.D.
+# Kitahashi, T. Ph.D.
 <br>
 海底の泥の中に棲んでいる“メイオファウナ”という小さな生き物の研究をしています
 <br>
