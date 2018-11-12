@@ -17,6 +17,5 @@
 - 2018.7.14  論文がアクセプトされました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
 
 <br>
-
 ___
 **[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
