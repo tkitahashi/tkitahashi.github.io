@@ -4,6 +4,8 @@
   
 **最近の活動…**
 
+- 2020.02.29  共著論文がアクセプトされました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
+
 - 2020.02.20  論文がアクセプトされました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
 
 - 2019.06.11 共著論文が出版されました！
@@ -13,8 +15,6 @@
 - 2018.10.28  よこすか航海に乗船しました！⇒ [研究乗船歴のページ](https://tkitahashi.github.io/cruise/)
 
 - 2018.10.23  論文がアクセプトされました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
-
-- 2018.09.12  Montereyで開催されたDeep-Sea Biology Symposiumで発表しました！⇒ [学会発表のページ](https://tkitahashi.github.io/presentation/)
 
   
 ___
