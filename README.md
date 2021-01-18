@@ -4,6 +4,8 @@
   
 **最近の活動…**
 
+- 2021.01.15  共著論文が出版されました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
+
 - 2020.04.01  科研費（若手研究）を獲得しました！
 
 - 2020.04.01  自由集会報告書が学会誌に掲載されました⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
