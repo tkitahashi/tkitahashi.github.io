@@ -10,11 +10,6 @@
 
 - 2020.04.01  自由集会報告書が学会誌に掲載されました⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
 
-- 2020.02.29  共著論文がアクセプトされました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
-
-- 2020.02.20  論文がアクセプトされました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
-
-
   
 ___
 **[[HOME]](https://tkitahashi.github.io/)  [[CV]](https://tkitahashi.github.io/cv/)  [[研究業績]](https://tkitahashi.github.io/publication/)  [[学会発表]](https://tkitahashi.github.io/presentation/)  [[研究乗船歴]](https://tkitahashi.github.io/cruise/)**
