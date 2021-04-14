@@ -4,11 +4,11 @@
   
 **最近の活動…**
 
+- 2021.04.07  共著論文が出版されました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
+
+- 2021.03.29  共著論文が出版されました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)、[プレスリリース](http://www.jamstec.go.jp/j/about/press_release/20210330/)
+
 - 2021.01.15  共著論文が出版されました！⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
-
-- 2020.04.01  科研費（若手研究）を獲得しました！
-
-- 2020.04.01  自由集会報告書が学会誌に掲載されました⇒ [研究業績のページ](https://tkitahashi.github.io/publication/)
 
   
 ___
